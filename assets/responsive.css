@@ -1,0 +1,2872 @@
+@media (max-width: 1459px) {
+	.b-header .container{
+		max-width: 100%;
+	}
+	.b-header-content:before{
+		display: none;
+	}
+	.b-header-content:after{
+		display: none;
+	}
+	.b-header-content > .container > .row > div{
+		padding: 0;
+	}
+	.b-logo{
+		padding: 0 60px 0 15px;
+	}
+	.b-modal-item{
+		bottom: 25px;
+		right: 20px;
+	}
+	.b-invest-lists__head-item-link{
+		font-size: 16px;
+	}
+	.b-detail__container-left table tbody tr td {
+		font-size: 16px;
+	}
+	.b-promo-funds__timer-counter {
+		margin-right: 0;
+	}
+}
+@media (max-width: 1229px) {
+	/* -------------- begin header css -------------- */
+	.b-header-search{
+		padding: 0 30px;
+	}
+	.header-nav-btn{
+		font-size: 14px;
+	}
+	.b-header-search span{
+		font-size: 14px;
+	}
+	.b-promo .container{
+		position: relative;
+		z-index: 5;
+	}
+	.b-promo-title{
+		font-size: 45px;
+	}
+	.b-title-item{
+		font-size: 36px;
+	}
+	.b-section{
+		padding: 60px 0;
+	}
+	h1{
+		font-size: 52px;
+	}
+	h2{
+		font-size: 34px;
+	}
+	h3{
+		font-size: 26px;
+	}
+	h4{
+		font-size: 23px;
+	}
+	h5{
+		font-size: 20px;
+	}
+	h6{
+		font-size: 18px;
+	}
+	.btn-play{
+		width: 80px;
+		height: 80px;
+	}
+	.btn-play_small{
+		width: 60px;
+		height: 60px;
+	}
+	/* -------------- end header css -------------- */
+
+
+
+
+
+	/* -------------- begin b-funds -------------- */
+	.b-funds-item__text b{
+		font-size: 22px;
+	}
+	.b-funds-table table.fixed-two-col th:first-child {
+		width: 70% !important;
+	}
+	.b-funds-table table.fixed-two-col th:last-child {
+		width: 20% !important;
+	}
+	/* -------------- end b-funds -------------- */
+
+
+	/* -------------- begin b-investment -------------- */
+	.b-investment__item-wrapper{
+		height: 105px;
+	}
+	.b-investment__item_name{
+		font-size: 16px;
+	}
+	.b-investment__item_hover{
+		height: 70px;
+	}
+	.b-investment__item_hover span{
+		font-size: 15px;
+	}
+	.b-investment__item_hover i{
+		font-size: 12px;
+	}
+	.b-investment__content{
+		margin: 0 -10px;
+	}
+	.b-investment__content_bottom{
+		margin-top: 140px;
+	}
+	.b-investment__content-col{
+		padding: 0 10px;
+	}
+	/* -------------- end b-investment -------------- */
+
+	/* -------------- begin b-main-about -------------- */
+	.b-main-about__container{
+		margin: 0 60px 0 0;
+	}
+	/* -------------- end b-main-about -------------- */
+
+
+	/* -------------- begin b-webinars -------------- */
+	.b-webinars__container-top{
+		padding: 15px 0 0 30px;
+	}
+	.b-webinars__container-top .b-webinars__container-content h3 {
+		font-size: 22px;
+	}
+	.b-webinars__container-content h2 a,
+	.b-webinars__container-content h4 a{
+		font-size: 20px;
+	}
+	.b-webinars-block-transparent .b-timer__container-sep{
+		margin: 0 3px;
+	}
+	/* -------------- end b-webinars -------------- */
+
+
+	/* -------------- begin b-blocks -------------- */
+	.b-blocks__item{
+	    padding: 35px 55px 45px 50px;
+	}
+	/* -------------- end b-blocks -------------- */
+
+	/* -------------- begin b-footer -------------- */
+	.b-footer{
+		padding: 55px 0;
+	}
+	/* -------------- end b-footer -------------- */
+
+	/* -------------- begin b-institutional -------------- */
+	.b-institutional__right{
+		padding: 0;
+	}
+	/* -------------- end b-footer -------------- */
+
+
+	/* -------------- begin b-promo_invest -------------- */
+	.b-promo_invest {
+	    padding-bottom: 125px;
+	}
+	.b-promo-row__item{
+		padding: 40px 10px 40px 10px;
+	}
+	.b-promo-row__block{
+	    padding: 35px 15px 35px 15px;
+	}
+	/* -------------- end b-footer -------------- */
+
+
+	/* -------------- begin b-process-etf -------------- */
+	.b-process-etf__row-block{
+		width: 131px;
+	}
+	.b-process-arrow i{
+		font-size: 7.5px;
+	}
+	.b-process-etf__row-block span{
+		font-size: 14px;
+	}
+	.b-process-arrow_first{
+		left: 45px;
+	}
+	/* -------------- end b-process-etf -------------- */
+
+	/* -------------- begin b-about-container -------------- */
+	.b-about-container{
+		display: block;
+		background: #8264FF;
+	}
+	.b-about-info:before{
+		display: none;
+	}
+	.b-about-info{
+		width: 100%;
+	}
+	.b-about-block__text h3{
+		font-size: 20px;
+		line-height: 1.3;
+	}
+	.b-investment-process__item{
+		padding: 0;
+	    margin: 0 0 23px 0;
+	}
+	.b-investment-process__container-row{
+		padding: 0 25px;
+	}
+	.b-investment-process__block{
+		padding: 20px 15px;
+	}
+	.b-investment-process__item-ico{
+		margin: 0 auto 15px;
+	}
+	.b-investment-process__container-border{
+		background-size: contain;
+	}
+	.b-investment-process__container-border{
+		top: 29px;
+	}
+	/* -------------- end b-about-container -------------- */
+
+	/* -------------- begin b-team -------------- */
+	.b-team-top__content-name{
+		font-size: 25px;
+		margin: 0 0 15px 0;
+	}
+	.b-team-top__content ul{
+		margin: 0 0 15px 0;
+	}
+	.b-team-top__content p{
+		margin: 0 0 20px 0;
+	}
+	.b-team-top__content-quote{
+		font-size: 20px;
+	}
+	.b-team-row__item-name{
+		font-size: 20px;
+	}
+	.b-team-top_two .b-team-top__content-quote{
+		font-size: 20px;
+	}
+	/* -------------- end b-team -------------- */
+
+	/* -------------- begin b-about-desc-------------- */
+	.b-about-desc__container-nav ul li a{
+		padding: 27px 15px 27px 15px;
+	}
+	.b-about-desc__container-nav ul li a:after{
+		margin: 0 0 0 10px;
+	}
+	/* -------------- end b-about-desc-------------- */
+
+	/* -------------- begin b-listing-item -------------- */
+	.b-listing-item__container{
+		padding: 0;
+	}
+	.b-listing-item__container-name{
+		font-size: 22px;
+	}
+	/* -------------- end b-listing-item -------------- */
+
+
+	/* -------------- begin details-page -------------- */
+	blockquote{
+		margin: 30px 0 30px 40px;
+		padding: 18px 20px 26px 20px;
+	}
+	.btn-twitter{
+		left: 0;
+	}
+	.b-institutional__item-small {
+		padding: 30px 15px;
+	}
+	.b-institutional__item-small .b-institutional__item-bottom ul li a{
+		font-size: 16px;
+	}
+	.b-institutional__item-small .b-institutional__item-text b{
+		font-size: 22px;
+	}
+	.b-detail__container .b-institutional__item-small p{
+		font-size: 16px;
+	}
+	.b-institutional__item-image{
+		margin: 0 -15px 20px -15px;
+	}
+	.b-institutional__row-img{
+		margin: 0 10px 0 0;
+	}
+	.b-institutional__row-name{
+		font-size: 14px;
+	}
+	.b-detail__container .b-institutional__row-content p{
+		font-size: 12px;
+		margin: 0 0 8px 0;
+	}
+	.b-detail__container{
+		padding: 0 0 50px 0;
+		margin: 0 0 50px 0;
+	}
+	/* -------------- end details-page -------------- */
+
+
+	/* -------------- begin b-section__item -------------- */
+	.b-section__item-text b,
+	.b-section__item-text h3{
+		font-size: 20px;
+	}
+	/* -------------- end b-section__item -------------- */
+
+
+	/* -------------- begin b-platforms -------------- */
+	.b-platforms-row__text b{
+		font-size: 23px;
+	}
+	/* -------------- end b-platforms -------------- */
+
+	/* -------------- begin b-historical -------------- */
+	.b-historical{
+
+	}
+	.b-historical-right__top{
+		padding: 0 0 14px 15px;
+		font-size: 20px;
+	}
+	.b-historical-right ul li{
+		padding: 19px 15px;
+		font-size: 12px;
+	}
+	.b-historical-nav__left ul li{
+		margin: 0 15px 0 0;
+	}
+	/* -------------- end b-historical -------------- */
+
+	/* -------------- begin b-promo-cms -------------- */
+	.b-promo-cms{
+		padding: 121px 0 0 0;
+	}
+	.b-promo-cms__img{
+		min-height: inherit;
+	}
+	.b-promo-cms__img img{
+		position: static;
+	}
+	.b-promo-cms__left{
+		padding-top: 0px;
+	}
+	/* -------------- end b-promo-cms -------------- */
+
+	/* --------------------- begin b-documents page ---------------------  */
+	.b-promo__documents{
+		padding: 180px 0 50px 0 !important;
+	}
+	.b-promo__documents > .container > .row > div{
+		display: block;
+	}
+	/* -------------- begin b-materials -------------- */
+	.b-materials__aside-container{
+		padding: 0 0 0 15px;
+	}
+	.b-materials__container{
+		padding: 50px 15px 55px 0;
+	}
+	.b-materials__container.no-sidebar{
+		padding: 50px 15px 55px;
+	}
+	/* -------------- end b-materials -------------- */
+
+	/* ---------------------  end b-documents page ---------------------  */
+
+	/* --------------------- begin ark-funds page --------------------- */
+	.b-section-nav ul li a{
+		padding: 25px 0;
+	}
+	.b-section{
+		max-height: inherit;
+	}
+	.b-table_default .b-table-container table thead tr td{
+		padding: 23px 20px;
+	}
+	.b-funds-block_3 table tbody tr td{
+		white-space: inherit;
+		line-height: 1.4;
+		padding: 20px 15px;
+	}
+    .b-funds-block_3 .funds-table3 td:nth-child(2){
+        border-bottom: 0;
+    }
+	.b-funds-block_3 .funds-table3 td:nth-child(3){
+		border-right: 1px solid rgba(208, 205, 226, 0.2);
+		border-bottom: 0;
+	}
+	.b-premium__nav{
+		padding: 20px 30px;
+	}
+	.b-fees__item ul{
+		padding: 0 0 0 10px;
+	}
+	.b-fees__item{
+		padding: 25px 15px 25px 15px;
+	}
+	.b-promo-funds__item-value.launch{
+		font-size: 44px;
+	}
+	/* ---------------------  end ark-funds page ---------------------  */
+
+
+	/* --------------------- begin b-documents page ---------------------  */
+	.b-error{
+		padding: 60px 0 65px 0;
+	}
+	.b-error__content b{
+		font-size: 230px;
+	}
+	.b-error__content span{
+		font-size: 28px;
+	}
+	/* --------------------- end b-documents page ---------------------  */
+
+	
+	/* --------------------- begin page subscribe --------------------- */
+	.b-subscribe_2 {
+	    padding-top: 188px;
+	}	
+	.b-subscribe_2 .b-subscribe__container-wrap{
+		width: 60%;
+		margin: 0 30px 0 0;
+	}
+	.b-title-item_sm{
+		font-size: 24px;
+	}
+	.b-subscribe__container-row .b-radio {
+	    margin: 0 15px 0 0;
+	}	
+	/* --------------------- end page subscribe --------------------- */
+
+	/* --------------------- begin page b-etf-section --------------------- */
+	.b-etf-section {
+	    padding-top: 90px;
+	}	
+	.b-etf-section .b-funds-table table th{
+		padding: 24px 5px;
+	}
+	.b-etf-section .b-funds-table table td{
+		padding: 16px 15px;
+	}
+	.b-etf-section  .b-funds-table__name{
+		font-size: 12px;
+	}
+	.b-etf-section .b-funds-table table thead tr th:before{
+		right: 5px;
+	}
+	.b-etf-section .b-funds-table table thead tr th:after{
+		right: 5px;
+	}
+	.b-etf-section .b-funds-table table tbody tr td:first-child {
+	    padding-left: 15px;
+	}	
+	.b-etf-section .dataTables_filter{
+		padding: 0 0 0 15px;
+	}
+	.b-etf-section .b-funds-table table tbody tr td span{
+		font-size: 14px;
+	}
+	.b-etf-section .b-funds-item__text b {
+	    font-size: 16px;
+	}	
+	.b-etf-section .b-funds-table table td:first-child, table th:first-child{
+		width: 30%;
+	}
+	.b-etf-section__pricing .b-funds-table table th{
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}	
+	/* --------------------- end page b-etf-section --------------------- */
+	.b-materials__top{
+		padding: 22px 15px;
+	}
+	/* --------------------- begin page b-questionnaire_step --------------------- */
+	.b-investment__content_border{
+		margin: 0 0 10px 0;
+	}
+	.b-investment__content_border ul li span{
+		padding: 12px 5px;
+	}
+	/* --------------------- end page b-questionnaire_step --------------------- */
+
+
+	.b-modal{
+		padding: 45px 20px;
+	}
+	.b-modal-container__row-top .b-title{
+		margin-right: 30px;
+	}
+	.b-invest-lists ul {
+		column-count: 2;
+	}
+	.b-invest-lists ul li{
+		flex-basis: 28%;
+	}
+	.b-modal__questionnaire .modal-dialog{
+		height: auto;
+		padding: 50px 15px;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		max-width: 500px;
+	}
+	.b-modal__questionnaire-text{
+		padding: 0px;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		margin: 0 0 30px 0;
+	}
+	.b-modal__questionnaire-ico{
+		margin: 0 auto 30px;
+	}
+	.b-modal__questionnaire-text p{
+		font-size: 22px;
+	}
+	.b-modal-item__content{
+		padding: 15px;
+	}
+	.b-modal-item__content-name{
+		font-size: 16px;
+	}
+	.b-modal-item__top-wrap{
+		padding: 10px 15px;
+	}
+	.b-modal-item__top-img img{
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+}
+@media (max-width: 1023px) {
+	.b-investment-process__container-row-item{
+		width: 100%;
+	}
+	.b-investment-process__container-border{
+		display: none;
+	}
+}
+@media (max-width: 991px) {
+	.container, .container-fluid, .container-xxl, .container-xl, .container-lg, .container-md, .container-sm{
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+	}
+	p{
+		font-size: 16px;
+	}
+	/* -------------- begin header css -------------- */
+	.b-logo{
+		width: auto;
+		height: auto;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+	    padding: 0 15px;
+	}
+	.b-logo img{
+		max-width: 120px;
+	}
+	.b-header-search{
+		padding: 0 30px;
+	}
+	.b-header-search span{
+		font-size: 14px;
+	}
+	.b-nav > ul > li > a{
+		font-size: 14px;
+	}
+	.header-nav-btn {
+	    font-size: 13px;
+	}
+	.b-header-search span {
+	    font-size: 13px;
+	}
+
+	/* -------------- end header css -------------- */
+	.b-title-item{
+		font-size: 32px;
+	}
+	.b-title p{
+		font-size: 15px;
+	}
+	.b-promo-title{
+		font-size: 38px;
+	}
+	.b-promo-block__text{
+		padding: 10px;
+	}
+	.b-promo-block__text-name{
+		font-size: 18px;
+		margin: 0 0 5px 0;
+	}
+	.btn-play{
+		width: 50px;
+		height: 50px;
+		font-size: 14px;
+		padding-right: 6px;
+	}
+	h1{
+		font-size: 38px;
+	}
+	h2{
+		font-size: 32px;
+	}
+	.front-page .b-promo{
+		padding-bottom: 100px;
+	}
+	.b-funds-table table td, .b-funds-table table th{
+	    padding: 14px 10px;
+	}
+	.b-funds-table table td{
+		padding: 20px 10px;
+	}
+	.b-funds-table table tbody tr td:first-child {
+	    padding-left: 20px;
+	}
+	.dataTables_filter{
+		padding: 0 0 0 20px;
+	}
+
+	.b-investment__block-name{
+		font-size: 14px;
+	}
+	.b-investment__block{
+		padding: 6px 0;
+	}
+	.b-investment__item{
+		padding: 0 5px;
+	}
+	.b-investment__item_name{
+		font-size: 14px;
+	}
+
+	/* -------------- begin b-main-about -------------- */
+	.b-main-about__wrapper{
+		flex-direction: column-reverse;
+		justify-content: center;
+		align-items: center;
+	}
+	.b-main-about__slider{
+		width: 100%;
+	}
+	.b-main-about__container{
+		margin: 45px 0 0 0;
+		text-align: center;
+	}
+	.b-main-about__container-content{
+		margin: 0 0 30px 0;
+	}
+	.b-main-about__btn{
+		margin: 0 auto 0;
+	}
+	/* -------------- end b-main-about -------------- */
+
+	/* -------------- begin b-documents -------------- */
+	.b-documents-item{
+	    padding: 15px 0 15px 10px;
+	}
+	.b-documents__container-top{
+		padding: 25px 0 25px 10px;
+	}
+
+	.b-webinars-block{
+		max-height: 200px;
+	}
+	.b-webinars__container-top{
+		padding: 25px 0 0 0;
+	}
+	/* -------------- end b-documents -------------- */
+
+
+	/* -------------- begin b-blocks -------------- */
+	.b-blocks__item{
+		padding: 25px 30px;
+	}
+	/* -------------- end b-blocks -------------- */
+
+
+	/* -------------- begin b-footer -------------- */
+	.b-footer-content{
+		flex-wrap: wrap;
+		justify-content: space-between;
+	}
+	.b-footer-left{
+		width: 33.333333%;
+		margin: 0 30px 0 0;
+	}
+	.b-footer-item{
+		width: 20%;
+	}
+	/* -------------- end b-footer -------------- */
+
+
+
+	/* -------------- begin b-research -------------- */
+	.b-research-item{
+		padding: 35px 15px 22px 15px;
+	}
+	.b-research-item__text b,
+	.b-research-item__text h3{
+		font-size: 18px;
+	}
+	/* -------------- end b-research -------------- */
+
+
+	/* -------------- begin b-institutional -------------- */
+	.b-institutional__left{
+		margin: 0 0 30px 0;
+	}
+
+	/* -------------- end b-institutional -------------- */
+
+
+	/* -------------- begin b-updates -------------- */
+	.b-updates__left{
+		margin: 0 0 30px 0;
+	}
+	/* -------------- end b-updates -------------- */
+
+	/* -------------- begin b-promo_invest -------------- */
+	.b-promo-row > div{
+		margin-bottom: 30px
+	}
+	.b-promo-row > div:last-child{
+		margin-bottom: 0px;
+	}
+	/* -------------- end b-promo_invest -------------- */
+
+
+	/* -------------- begin b-section__item -------------- */
+	.b-section__item-text b,
+	.b-section__item-text h3{
+		font-size: 18px;
+	}
+	/* -------------- end b-section__item -------------- */
+
+
+	/* -------------- begin b-process-etf -------------- */
+	.b-process-etf__row-block{
+		width: 100px;
+		height: 100px;
+	}
+	.b-process-arrow_first{
+		left: 27px;
+		top: -35px;
+	}
+	.b-process-arrow_first .b-process-arrow__item-number:after{
+	    top: -25px;
+    	background-size: contain;
+    	width: 170px;
+	}
+	.b-process-arrow i{
+		font-size: 5.5px;
+	}
+	.b-process-etf__row-block span{
+		font-size: 13px;
+	}
+	.b-process-etf__row-circle{
+		font-size: 13px;
+		width: 100px;
+		height: 100px;
+	}
+	.b-process-arrow{
+	    margin: 0px 11px;
+	}
+	.b-process-arrow__item-number{
+		width: 27px;
+		height: 27px;
+		font-size: 12px;
+	}
+	.b-process-etf__list ul li{
+		font-size: 16px;
+	}
+	/* -------------- end b-process-etf -------------- */
+
+	/* -------------- begin b-about-container -------------- */
+	.b-about-item__img{
+
+	}
+	.b-about-item__img img{
+		margin: 0 auto 0;
+	}
+	/* -------------- end b-about-container -------------- */
+
+	/* -------------- begin b-investment-process -------------- */
+	.b-investment-process__container-border{
+		display: none;
+	}
+	.b-investment-process__col{
+		margin-bottom: 30px;
+	}
+	/* -------------- end b-investment-process -------------- */
+	.b-about-desc__container-nav ul li a{
+		line-height: 1.3;
+	}
+	.b-content{
+		padding: 180px 0 50px 0;
+	}
+	.b-title_mb-100{
+		margin-bottom: 50px;
+	}
+	/* -------------- begin b-listing-item -------------- */
+	.b-listing-item__img{
+		margin-bottom: 30px;
+	}
+	/* -------------- end b-investment-process -------------- */
+
+	/* -------------- begin details-page -------------- */
+	.b-detail__container-right{
+		display: flex;
+		justify-content: flex-start;
+		align-content: flex-start;
+		flex-wrap: wrap;
+	}
+	.b-institutional__item-small{
+		width: 50%;
+	}
+    .b-institutional__item-small.help-center {
+        display: none;
+    }
+	.b-institutional__item-sticky{
+		width: 50%;
+		padding: 30px 15px;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+	}
+	.b-institutional__item-sticky > div{
+		width: 100%;
+		padding: 0;
+	}
+	/* -------------- end details-page -------------- */
+
+
+	/* -------------- begin b-promo-cms -------------- */
+	.b-promo-cms{
+		padding: 165px 0 0 0;
+	}
+	.b-promo-cms__bottom{
+		padding: 20px 15px;
+	}
+	.b-promo-cms__bottom-left{
+		width: 50%;
+		margin: 0 15px 0 0;
+	}
+	.b-promo-cms__bottom-left .b-title{
+		margin: 0 0 20px 0;
+	}
+	.b-promo-cms__footer{
+		min-height: 370px;
+	}
+	.b-promo_invest .row .col-xl:not(:last-child){
+		margin-bottom: 55px;
+	}
+	/* -------------- end b-promo-cms -------------- */
+
+	/* -------------- begin b-platforms -------------- */
+	.b-platforms{
+
+	}
+	.b-platforms-row__text-number{
+		top: -16px;
+		left: -22px;
+		font-size: 60px;
+	}
+	/* -------------- end b-platforms -------------- */
+
+
+	/* -------------- begin b-team-top_two -------------- */
+	.b-team-top_two .b-team-top__content-quote{
+		font-size: 17px;
+	}
+	.b-team-top_two .b-team-top__content-name{
+		font-size: 20px;
+	}
+	/* -------------- end b-team-top_two -------------- */
+	.b-historical-right{
+		margin: 30px 0  0 0;
+	}
+
+
+	/* -------------- begin b-search-result page -------------- */
+	.b-found-item{
+		padding: 45px 10px 5px 10px;
+		min-height: 320px;
+	}
+	.b-materials-block_big .b-materials-block__top-name{
+		font-size: 17px;
+	}
+	.b-materials-block_big .b-materials-block__top-desc{
+		font-size: 12px;
+	}
+	.b-materials-block_big .b-materials-block__footer-subname{
+		font-size: 30px;
+	}
+	.b-materials-block_big .b-materials-block__footer-name{
+		font-size: 24px;
+	}
+	.b-materials-block_big .b-materials-block__footer-date{
+		font-size: 12px;
+	}
+	.b-materials-block_big .b-materials-block__footer-btn{
+		font-size: 20px;
+	}
+	.b-found-others ul li a{
+		font-size: 15px;
+	}
+	.b-search-result__nav ul li{
+		margin: 0 30px 0 0;
+	}
+	/* -------------- end b-platforms -------------- */
+
+	/* --------------------- begin b-documents page ---------------------  */
+
+	/* -------------- begin b-materials -------------- */
+	.b-materials-block__top{
+		padding: 10px;
+	}
+	.b-materials-block__top-name{
+		font-size: 15px;
+	}
+	.b-materials-block__footer{
+		padding: 10px;
+	}
+	.b-materials-block__footer-subname {
+		font-size: 24px;
+	}
+	.b-materials-block__footer-name{
+		font-size: 18px;
+	}
+	.b-materials-block__footer-btn{
+		font-size: 15px;
+	}
+	/* -------------- end b-materials -------------- */
+
+	/* --------------------- end b-documents page ---------------------  */
+
+	/* --------------------- begin ark-funds page --------------------- */
+	.b-promo-funds__row{
+		padding-left: 0;
+		padding-top: 35px;
+	}
+	.b-tabs-nav_row{
+		flex-direction: column;
+		justify-content: center;
+		align-items: flex-start;
+		padding: 15px;
+	}
+	.b-date__container{
+		padding: 0;
+		margin: 15px 0 0;
+	}
+	.b-funds-block_3 table thead tr th span{
+		white-space: inherit;
+	}
+	.b-funds-block_3 table thead tr th{
+		padding: 10px 10px;
+	}
+	.b-table-container table tbody tr td{
+		font-size: 11px;
+		padding: 20px 10px;
+	}
+	.b-funds-block_3 table thead tr th:before, .b-funds-block_3 table thead tr th:after{
+		right: 5px;
+	}
+	.b-funds-block_3 table thead tr th:before{
+		top: 12px;
+	}
+	.b-funds-block_3 table thead tr th:after{
+		top: 25px;
+	}
+	.b-funds-block .b-table-container:last-child{
+		margin-bottom: 0px;
+	}
+	.b-table_default .b-table-container table thead tr td{
+		padding: 23px 14px;
+	}
+	.b-premium__right{
+		margin: 30px 0 0 0;
+	}
+	.b-section-nav ul li a{
+		padding: 15px 0;
+	}
+	/* --------------------- end ark-funds page --------------------- */
+
+	/* -------------- begin questionnaire page -------------- */
+	.b-questionnaire__title{
+		font-size: 18px;
+	}
+	.b-questionnaire-info__item-text{
+		font-size: 18px;
+	}
+	.b-questionnaire-info{
+		padding: 20px 15px;
+	}
+	.b-questionnaire-info_right{
+		padding: 0;
+	}
+	.b-questionnaire-info_right .b-funds-item{
+		padding: 15px 10px;
+	}
+	/* -------------- end questionnaire page -------------- */
+
+	/* --------------------- begin page subscribe --------------------- */
+	.b-subscribe__container{
+		padding: 30px 15px 100px 15px;
+	}
+	.b-subscribe_2 .b-subscribe__container{
+		padding: 50px 15px;
+	}
+	.b-title-item_sm{
+		font-size: 20px;
+	}
+	.b-subscribe__container-row{
+		display: block;
+	}
+	.b-subscribe__container-row .b-radio{
+		margin: 0 0 15px 0;
+	}
+	.b-subscribe__container-row .b-radio:last-child{
+		margin-bottom: 0px;
+	}
+	.b-checkbox input[type="checkbox"] + label i{
+		line-height: 1.4;
+	}	
+	.b-subscribe__container-list ul li a{
+		font-size: 17px;
+		padding: 20px 0;
+	}
+	/* --------------------- end page subscribe --------------------- */
+
+	/* --------------------- begin page b-etf-section --------------------- */
+	.b-funds-item{
+		display: block;
+	}
+	.b-promo-funds__item.launch {
+		padding-left: 30px;
+	}
+	.b-promo-funds__item-inner {
+		margin: 0;
+	}
+	.b-funds-item__img{
+		width: 35px;
+		height: 35px;
+		margin: 0 0 7px 0;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+	}
+	.b-etf-section .b-funds-table table td{
+		padding: 16px 15px;
+	}
+	.b-etf-section .b-funds-table table td:first-child, table th:first-child{
+		width: 27%;
+	}
+	.b-etf-section .dataTables_filter input{
+		width: 143px;
+	}
+	.b-etf-section__pricing .b-funds-table table th{
+		padding-top: 0px;
+		padding-bottom: 0px;
+	}
+	.b-etf-section__pricing .b-funds-table__name{
+		width: 80%;
+		font-size: 10px;
+	}
+	.b-etf-section .b-funds-block{
+		margin: 0 0 40px 0;
+	}
+	/* --------------------- end page b-etf-section --------------------- */
+	.b-investment__block i{
+		width: 24px;
+		height: 24px;
+	}
+	.b-investment__content_t{
+		flex-wrap: wrap;
+	}
+	.b-investment__content_t .b-investment__content-col{
+		width: auto;
+		flex: 1 1 auto;
+	}
+	.b-questionnaire_step .b-investment__item_name br{
+		display: none;
+	}
+	.b-investment__item__check{
+		left: auto;
+		right: 12px;
+		top: 50%;
+		transform: translateY(-50%);
+	}
+	.b-invest-lists{
+		padding: 35px 25px 5px 25px;
+	}
+	.b-invest-lists__head-item-link{
+		font-size: 14px;
+	}
+	.b-invest-lists ul li{
+		flex-basis: 50%;
+		margin: 0 0px 35px 0px !important;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.b-funds-table__name{
+		font-size: 11px;
+	}
+	.b-funds-table__name:last-child{
+		margin-right: 10px;
+	}
+	.b-funds-table .funds-table4 th,
+	.b-funds-table table td,
+	.b-funds-table table th{
+		padding-left: 6px;
+		padding-right: 6px;
+	}
+	.b-funds-table table tbody tr td span{
+		font-size: 12px;
+	}
+	.b-funds-table table thead tr th:before{
+		font-size: 10px;
+		right: 5px;
+	}
+	.b-funds-table table thead tr th:after{
+		font-size: 10px;
+		right: 5px;
+	}
+
+	.b-etf-section .b-funds-table table tbody tr td span{
+		font-size: 12px;
+	}
+	.b-etf-section .b-funds-table table td{
+		padding-left: 6px;
+		padding-right: 6px;
+	}
+}
+@media (max-width: 767px) {
+	.b-title-item br{
+		display: none;
+	}
+	.b-promo-text__item,
+	.b-title-item.b-title-item_small,
+	.b-table-title span,
+	.b-table-title h3{
+		font-size: 22px;
+	}
+
+	/* -------------- begin header css -------------- */
+	.b-header-content > .container > .row > div{
+		align-items: center;
+		position: static;
+	}
+	.b-header-top{
+		position: fixed;
+		top: 420px;
+		left: 0;
+		right: 0;
+		width: 90%;
+		border-bottom: 0;
+		visibility: hidden;
+		opacity: 0;
+		pointer-events: none;
+		z-index: 201;
+		margin: 0 auto;
+	}
+	.b-header-top.hidden{
+		opacity: 0 !important;
+		pointer-events: none !important;
+		transition: 0.3s;
+	}
+	body.active.body-overflow .b-header-top{
+		opacity: 1;
+		visibility: visible;
+		pointer-events: auto;
+		transition: 0.3s;
+		top: auto;
+		bottom: 0;
+	}
+	.header-nav-item {
+		height: auto;
+	}
+	.b-header-item__ico.icon-user{
+		display: none;
+	}
+	.b-header-top__wrapper{
+		justify-content: center;
+	}
+	.b-header-top .b-header-top__nav{
+		display: none;
+	}
+	.b-header-item:after{
+		transform: rotate(-90deg);
+	}
+	.header-nav-wrapper{
+		flex-grow: inherit;
+	}
+	.b-header-search{
+		padding: 0;
+		display: flex;
+		justify-content: flex-end;
+		align-items: center;
+		flex-grow: 1;
+		margin-right: 15px;
+	}
+	.b-header-search__ico{
+		width: 35px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 15px;
+		margin: 0;
+	}
+	.b-header-search:before , .b-header-search:after{
+		display: none;
+	}
+	.b-header-search span{
+		display: none;
+	}
+	.b-header-search__input{
+		height: 48px;
+	}
+	.b-header-search__dropdown{
+		padding: 13px 0;
+	}
+
+	.b-header-content{
+		padding: 14px 0;
+	}
+	.b-logo{
+		margin: 0;
+
+	}
+	.b-logo img{
+		object-fit: contain;
+		width: 120px;
+		height: auto;
+	}
+	.b-mobile{
+		display: block;
+	    margin: 0 15px 0 0;
+	}
+	.menu-icon{
+	    position: relative;
+	    z-index: 10001;
+	    cursor: pointer;
+		transition: 0.3s;
+	}
+	.menu-icon.active{
+		transition: 0.3s;
+	    z-index: 2000;
+	}
+	.menu-icon__wrapper{
+		position: relative;
+		width: 16px;
+		height: 13px;
+		margin: 0 auto 0;
+	}
+	.menu-icon.active b{
+		transition: 0.5s;
+	}
+	.menu-icon .b-menu__line{
+	    display: block;
+	    position: absolute;
+	    left: 0;
+	    top: 0;
+	    width: 100%;
+	    height: 1px;
+		background: #ffffff;
+		border-radius: 6px;
+	    -webkit-transition: background-color 0.35s, -webkit-transform 0.175s cubic-bezier(0.215, 0.61, 0.355, 1), opacity 0.175s cubic-bezier(0.215, 0.61, 0.355, 1);
+	    transition: background-color 0.35s, transform 0.175s cubic-bezier(0.215, 0.61, 0.355, 1), opacity 0.175s cubic-bezier(0.215, 0.61, 0.355, 1);
+	    -webkit-transform: translateY(0) translateZ(0);
+	    transform: translateY(0) translateZ(0);
+	}
+	.menu-icon .b-menu__line_1 {
+	    top: 0;
+	}
+	.menu-icon .b-menu__line_2 {
+	    top: 6px;
+	}
+	.menu-icon .b-menu__line_3 {
+	    top: 12px;
+	    width: 100%;
+	}
+	.menu-icon.active .b-menu__line {
+	    background: #ffffff;
+	}
+	.menu-icon.active .b-menu__line_1 {
+	    -webkit-transform: translateY(8px) rotate(45deg);
+	    transform: translateY(8px) rotate(45deg);
+	    top: 0px;
+	}
+	.menu-icon.active .b-menu__line_2 {
+	    opacity: 0;
+	}
+	.menu-icon.active .b-menu__line_3 {
+	    -webkit-transform: translateY(-8px) rotate(-45deg);
+	    transform: translateY(-8px) rotate(-45deg);
+	    top: 16px;
+	    width: 100%;
+	}
+	.b-header-content{
+		background: #050512;
+	}
+	.b-header-content > .container > .row > div:after , .b-header-content > .container > .row > div:before{
+		display: none;
+	}
+	.b-header.logo-only .b-logo {
+		margin: 15px 0;
+	}
+	.b-header.logo-only .b-logo img {
+		max-width: 85px;
+	}
+	.b-header.logo-only .b-header-top {
+		position: relative;
+		top: auto;
+		opacity: 1;
+		visibility: visible;
+		width: 100%;
+		border-bottom: 1px solid rgba(208, 205 ,226 , 0.2);
+	}
+	.b-header.logo-only .purple-btn {
+		min-width: auto;
+	}
+
+		/* -------------- end header css -------------- */
+	h1, h2, h3, h4, h5, h6{
+		font-weight: 800;
+	}
+	p{
+		font-size: 14px;
+	}
+	.purple-btn{
+		height: 64px;
+		font-size: 16px;
+	}
+	.b-title-item{
+		font-size: 27px;
+	}
+	.b-title p {
+	    font-size: 14px;
+	}
+	.b-title p br{
+		display: none;
+	}
+	h1{
+		font-size: 30px;
+	}
+	/* -------------- begin b-promo -------------- */
+	.front-page .b-promo{
+	    padding: 100px 0 0 0;
+	    position: relative;
+	    z-index: 1;
+	}
+	.b-promo.b-promo_invest:before{
+		position: absolute;
+		top: 0;
+		left: 0;
+		content: "";
+		width: 100%;
+		height: 100%;
+		background: url(../images/promo-mobile.png) right top 5px no-repeat;
+	}
+	.b-promo{
+		padding: 129px 0 60px 0;
+	}
+	.b-promo-title{
+		font-size: 30px;
+		font-weight: 800;
+	}
+	.b-promo-text{
+		margin: 0 0 30px 0;
+	}
+	.b-promo-text p{
+		font-size: 14px;
+	}
+	.front-page .b-promo{
+		padding-bottom: 80px;
+	}
+	.b-promo-block{
+		margin: 30px 0 0 0;
+	}
+	/* -------------- end b-promo -------------- */
+
+
+	/* -------------- begin b-funds -------------- */
+	.b-promo-funds__col.launch .b-promo-funds__btn:not(:last-child) {
+		margin-bottom: 20px;
+	}
+	.b-promo-funds__item-inner {
+		width: 100%;
+		padding-left: 5px;
+	}
+	.b-promo-funds__timer-inner {
+		flex-direction: column;
+		align-items: flex-start;
+		justify-content: flex-start;
+		padding: 0 15px;
+	}
+	.b-promo-funds__timer-title {
+		font-size: 16px;
+		margin-bottom: 16px;
+	}
+	.b-promo-funds__timer-item {
+		margin-right: 19px;
+	}
+	.b-promo-funds__timer-item:last-child {
+		margin-right: 0;
+	}
+	.b-promo-funds__timer-counter b {
+		font-size: 30px;
+	}
+	.b-promo-funds__timer-counter span {
+		font-size: 10px;
+		padding: 0 0 3px 6px;
+	}
+	.b-wrapper:before{
+		display: none;
+	}
+	.b-funds{
+		background: #050512;
+		padding: 0 0 70px 0 !important;
+	}
+	.b-funds .b-title{
+		display: none;
+	}
+	.b-text{
+		display: none;
+	}
+	.b-tabs-nav{
+		padding: 23px 0 13px 15px;
+		margin: 0;
+	}
+	.b-funds-block_two .b-tabs-nav {
+		padding: 23px 0 23px 15px;
+	}
+	.b-tabs-nav > ul > li {
+		margin: 0 18px 10px 0;
+	}
+	.b-tabs-nav > ul > li:last-child{
+		margin-right: 0;
+	}
+	.b-tabs-nav > ul > li > a{
+		font-size: 16px;
+	}
+	.b-tabs-nav-small{
+		margin: 0;
+		padding: 25px 0 25px 15px;
+	}
+	.b-tabs-nav-small > ul > li{
+		margin: 0 23px 0 0;
+	}
+	.b-tabs-nav-small > ul > li > a{
+		font-size: 14px;
+	}
+	.dataTables_filter{
+		position: static;
+		border-top: 1px solid #8264FF;
+		border-bottom: 1px solid #8264FF;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		margin: 0 0 15px 0;
+		display: flex;
+		justify-content: flex-start;
+		align-items: center;
+	}
+	.dataTables_filter label{
+		flex-grow: 1;
+	}
+	.dataTables_filter input{
+		width: 100%;
+	}
+	.b-funds-block{
+		margin: 0;
+	}
+    .b-funds-block.b-funds-block_3{
+        margin-bottom: 15px;
+    }
+    .b-funds-block.b-funds-block_3 .b-date__text{
+        font-size: 12px;
+    }
+	.b-funds-table table thead{
+		display: none;
+	}
+	.b-funds-table table tr{
+		display: flex;
+		justify-content: flex-start;
+		align-content: flex-start;
+		flex-wrap: wrap;
+		border-bottom: 1px solid rgba(208, 205, 226, 0.2);
+	}
+	.b-funds-table table tr td{
+		display: flex;
+		flex-direction: column;
+		justify-content: flex-start;
+		align-items: flex-start;
+		width: 50%;
+		padding: 13px 8px;
+	}
+	.b-funds-table table tbody tr td:first-child{
+		padding-left: 8px;
+	}
+	.b-funds-table table tr td:first-child{
+		width: 100%;
+		min-width: 100%;
+	}
+	.b-funds-table table tr td:first-child:before , .b-funds-table table tr td:first-child:after{
+		display: none;
+	}
+	.b-funds-table table tr td:before {
+		display: block;
+		content: attr(aria-label);
+		font-weight: 400;
+		font-size: 14px;
+		line-height: 1;
+		color: #FFFFFF;
+		margin: 0 0 5px 0;
+		order: 1;
+	}
+	.b-funds-table table tr td:after {
+		display: block;
+		content: attr(aria-label2);
+		font-weight: 400;
+		font-size: 12px;
+		line-height: 1;
+		color: #79768B;
+		margin: 0 0 13px 0;
+		order: 2;
+	}
+	.b-funds-table table tbody tr td span{
+		order: 3;
+	}
+	.b-funds-table table tbody tr td span{
+		font-size: 14px !important;
+		line-height: 1.2;
+	}
+	.b-funds-item__text b{
+		font-size: 16px;
+	}
+	.b-funds-item__img{
+		width: 36px;
+		height: 36px;
+		padding: 5px;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		padding: 0;
+		margin: 0 11px 0 0;
+	}
+	.fund-performance-section .b-table-container table tbody tr td {
+		width: 50%
+	}
+	.b-etf-section-home .b-tabs-nav-small,
+	.b-etf-section .b-tabs-nav-small {
+		padding: 0 0 15px 15px;
+	}
+
+	.b-etf-section-home .b-tabs-nav-small .nav,
+	.b-etf-section .b-tabs-nav-small .nav {
+		display: none;
+	}
+
+	.b-etf-section-home .b-tabs-nav-small .b-tabs-nav__date,
+	.b-etf-section .b-tabs-nav-small .b-tabs-nav__date {
+		font-size: 12px;
+		margin-left: 0;
+	}
+	/* -------------- end b-funds -------------- */
+
+	/* -------------- begin b-main-about -------------- */
+	.b-main-about__container{
+		width: auto;
+	}
+	.b-main-about__slider-item{
+		width: 100%;
+		/*height: 250px;*/
+	    /*padding: 21px 0px 10px 0px;*/
+	    margin: 0;
+	}
+	.b-main-about__slider-item img{
+		/*height: 100%;*/
+		/*width: 140px;*/
+		width: 100%;
+		height: auto;
+	}
+	.b-main-about__slider-item.swiper-slide-active{
+	    /*height: 324px;*/
+		background-size: contain;
+	}
+	.b-main-about__slider-item img{
+		margin: 0 auto 0;
+	}
+ 	.b-main-about__slider-nav{
+ 		margin: 30px 0 0 0;
+ 	}
+ 	.b-main-about .b-title{
+ 		margin: 0 0 50px 0;
+ 	}
+ 	/* -------------- end b-main-about -------------- */
+
+
+ 	/* -------------- begin b-investment -------------- */
+	.b-investment{
+		background: linear-gradient(8.1deg, #08081E 25.8%, #1C1537 60.75%, #48359A 100.69%, #38277E 133.14%, #19103C 148.12%);
+		background-blend-mode: multiply;
+		mix-blend-mode: normal;
+	}
+	.b-questionnaire .tab-content,
+	.b-investment .tab-content{
+		position: relative;
+		padding-bottom: 65px;
+	}
+	.b-investment__item.active .b-investment__item_hover{
+		transition: none;
+	}
+	.b-investment__content{
+		display: block;
+	}
+	.b-investment__content_bottom{
+		display: flex;
+		overflow: auto;
+		margin: 35px -10px 0 -10px;
+	}
+	.b-investment__item{
+		box-sizing: border-box;
+		position: static;
+	}
+	.b-investment__item-wrapper{
+		height: auto;
+		justify-content: flex-start;
+		padding: 20px;
+	}
+	.b-investment__item-wrapper:before{
+		content: "";
+		width: 23px;
+		height: 23px;
+		background: #0A0A23;
+		border-radius: 100%;
+		border: 1px solid #8264FF;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		margin: 0 12px 0 0;
+	}
+	.b-investment__item_hover{
+		justify-content: space-between;
+		height: 65px;
+		width: 100%;
+		box-sizing: border-box;
+		padding: 0 20px;
+		position: absolute;
+		left: 0;
+		top: auto;
+		bottom: 0;
+	}
+	.b-investment__item.active{
+
+	}
+	.b-investment__item.active .b-investment__item-wrapper:before{
+ 		border-width: 9px;
+ 		border-color: #ffffff;
+	}
+	.b-investment__item_name{
+		font-size: 18px;
+	}
+	.b-investment__content .b-investment__content-col{
+		margin: 0 0 15px 0;
+		width: 100%;
+	}
+	.b-investment__content_bottom .b-investment__content-col{
+		width: auto;
+		margin: 0;
+	}
+	.b-investment__block{
+		width: 130px;
+		flex-shrink: 0;
+	}
+	/* -------------- end b-investment -------------- */
+
+
+	/* -------------- begin b-documents -------------- */
+	.b-documents__container{
+		margin: 0;
+	}
+	.b-documents__container-col{
+		padding: 0;
+	}
+	.b-documents__container-col:last-child{
+		margin-bottom: 0px;
+	}
+	.b-documents__container-top{
+		font-size: 17px;
+	}
+	.b-documents-item__left-img{
+		width: 36px;
+		height: 36px;
+		margin: 0 15px 0 0;
+		padding: 5px;
+	}
+	.b-documents-item__left-name{
+		font-size: 16px;
+	}
+	.b-documents__container-footer{
+		display: none;
+	}
+	.b-documents__container-footer_xs{
+		display: block;
+		margin: 30px 0 0 0;
+	}
+	/* -------------- end b-documents -------------- */
+
+	/* -------------- begin b-webinars -------------- */
+	.b-webinars{
+		padding-bottom: 30px;
+	}
+	.b-webinars-row > div{
+		margin-bottom: 30px;
+	}
+	.b-webinars-row > div:last-child{
+		margin-bottom: 0px;
+	}
+	.b-webinars__item{
+		margin-bottom: 30px;
+		height: auto;
+	}
+	/* -------------- begin b-webinars -------------- */
+
+	/* -------------- begin b-blocks -------------- */
+	.b-blocks {
+		padding-bottom: 30px;
+	}
+	.b-blocks > .container > .row > div{
+		margin-bottom: 30px;
+	}
+	/* -------------- 3nd b-blocks -------------- */
+
+
+	/* -------------- begin b-footer -------------- */
+	.b-footer-content{
+		display: block;
+	}
+	.b-footer-logo{
+		width: 82px;
+		height: auto;
+		margin: 0 0 50px 0;
+	}
+	.b-footer-left{
+		width: 100%;
+		margin: 0 0 40px 0;
+	}
+	.b-footer-item{
+		margin: 0 0 40px 0;
+		width: 100%;
+	}
+	.b-footer__bottom p{
+		font-size: 14px;
+	}
+    .b-footer__bottom a,
+    .b-footer__bottom span {
+        word-break: break-all;
+    }
+	.b-footer__bottom p br{
+		display: none;
+	}
+	/* -------------- end b-footer -------------- */
+
+
+
+	/* -------------- begin b-institutional -------------- */
+	.b-institutional__right{
+		padding: 0;
+	}
+	.b-institutional__item{
+		padding: 25px 15px;
+	}
+	.b-institutional__item-text b,
+	.b-institutional__item-text h3{
+		font-size: 20px;
+	}
+	.b-institutional__item-bottom ul li a{
+		font-size: 15px;
+	}
+	/* -------------- end b-institutional -------------- */
+
+
+
+	/* -------------- begin b-updates -------------- */
+	.b-updates-form{
+		padding: 25px 15px;
+	}
+	.b-updates-form-title{
+		font-size: 18px;
+	}
+	/* -------------- end b-updates -------------- */
+
+
+	/* -------------- begin b-research -------------- */
+	.b-research-item{
+		padding: 15px 0;
+		background: none;
+	}
+	.b-research-item__top{
+		min-height: inherit;
+	}
+	/* -------------- end b-research -------------- */
+
+
+	/* -------------- begin b-invest-lists -------------- */
+	.b-invest-lists{
+	    padding: 25px 10px 15px 10px;
+	    flex-wrap: wrap;
+	}
+	.b-invest-lists ul{
+		justify-content: flex-start;
+	}
+	.b-invest-lists ul li{
+		flex-basis: 50%;
+		font-size: 14px;
+		margin: 0 0 17px 0;
+		padding: 0 5px;
+	}
+	/* -------------- end b-invest-lists -------------- */
+
+
+	/* -------------- begin b-section__item -------------- */
+	.b-section {
+		padding-top: 30px;
+	}
+	.b-section .b-title {
+		margin-bottom: 30px;
+	}
+	.b-section-row{
+		margin-bottom: 0px;
+	}
+	.b-section-row > div{
+		flex: none;
+		width: 100%;
+	}
+	.b-section__title{
+		margin: 0 0 30px 0;
+	}
+	/* -------------- end b-section__item -------------- */
+
+
+	/* -------------- begin b-promo_invest -------------- */
+	.b-promo-row_mt{
+		margin-top: 35px;
+	}
+	.b-promo-row__block-text b{
+		font-size: 20px;
+		line-height: 1.2
+	}
+	.b-promo-row__block-text p{
+		font-size: 14px;
+	}
+	.b-promo-contacts{
+		display: block;
+	}
+	.b-promo-contacts__item{
+		margin: 0 0 15px 0;
+	}
+	.b-promo-contacts__item:last-child{
+		margin-bottom: 0px;
+	}
+	/* -------------- end b-promo_invest -------------- */
+
+
+	/* -------------- begin b-process-etf -------------- */
+	.b-process-etf__row{
+		flex-wrap: wrap;
+		justify-content: space-evenly;
+	}
+	.b-process-etf__row-block{
+		width: 90px;
+		margin: 10px 0;
+	}
+	.b-process-etf__row-circle{
+		margin: 10px 0;
+	}
+	.b-table-container table thead{
+		display: none;;
+	}
+	.b-table-container table tbody tr{
+		display: flex;
+		justify-content: flex-start;
+		align-content: flex-start;
+		flex-wrap: wrap;
+	}
+	.b-table-container table tbody tr td{
+		display: block;
+		width: 33.333333%;
+	    padding: 15px 5px;
+	}
+	.b-table-container table tbody tr td:first-child{
+		width: 100%;
+		text-align: center;
+	}
+	.b-table-container table tbody tr td:before {
+	    display: block;
+	    content: attr(aria-label3);
+	    font-weight: 400;
+	    font-size: 12px;
+	    line-height: 1;
+	    min-height: 24px;
+	    color: #FFFFFF;
+	    text-align: center;
+	    margin: 0 0 10px 0;
+	}
+	.b-table-container table tbody tr td .icon-check{
+		margin: 0 auto 0;
+	}
+	.b-table-container table tbody tr td:first-child:before{
+		display: none;
+	}
+	/* -------------- end b-process-etf -------------- */
+
+
+	/* -------------- begin b-about-info -------------- */
+	.b-about-block{
+		margin-bottom: 30px;
+	}
+	/* -------------- end b-about-info -------------- */
+
+
+	/* -------------- begin b-about-info -------------- */
+	.b-investment-process__container-row{
+		padding: 0;
+	}
+	.b-investment-process__block-text b{
+		font-size: 17px;
+	}
+	/* -------------- end b-about-info -------------- */
+
+	/* -------------- begin b-team -------------- */
+	.b-team-top__img{
+		margin: 0 0 15px 0;
+	}
+	.b-team-row > div{
+		margin-bottom: 30px;
+	}
+	.b-team-row > div:last-child{
+		margin-bottom: 0px;
+	}
+	.b-team__bottom-quote{
+		font-size: 17px;
+		line-height: 1.3;
+	}
+	/* -------------- end b-team -------------- */
+
+
+	/* -------------- begin b-about-desc -------------- */
+	.b-about-desc__container-nav{
+		margin: 0 0 30px 0;
+	}
+	/* -------------- end b-about-desc -------------- */
+
+	.b-content {
+		padding: 100px 0 50px 0;
+	}
+	.btn-load{
+		margin: 0;
+	}
+	/* -------------- begin details-page -------------- */
+	.b-institutional__item-small{
+		width: 100%;
+		max-width: 360px;
+		margin: 0 auto 0;
+	}
+	.b-institutional__item-sticky{
+		width: 100%;
+		padding: 0;
+		max-width: 360px;
+		margin: 0 auto 0;
+	}
+	.b-institutional__item-sticky > div{
+		max-width: 100%;
+	}
+	.b-detail__container-title{
+		font-size: 24px;
+	}
+	.b-detail__container-left ul li a{
+		font-size: 15px;
+	}
+	.b-detail__container-left ul li a:before{
+		top: 3px;
+	}
+	blockquote{
+		font-size: 16px;
+		padding: 15px;
+	}
+	.b-detail__container-left table{
+		display: block;
+	}
+	.b-detail__container-left table thead{
+		display: none;
+	}
+	.b-detail__container-left table tbody{
+		display: block;
+	}
+	.b-detail__container-left table tbody tr{
+		display: flex;
+		justify-content: flex-start;
+		align-content: flex-start;
+		flex-wrap: wrap;
+		border: 1px solid rgba(208, 205, 226, 0.2);
+		border-bottom: 10px solid #20174a;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+	}
+	.b-detail__container-left table tbody tr td{
+		font-size: 14px;
+		width: 50%;
+		display: block;
+		padding: 10px 15px;
+	}
+	.b-detail__container-left table tbody tr td:before{
+		content: attr(aria-label);
+		display: block;
+		color: #8264FF;
+		margin: 0 0 5px 0;
+	}
+	.b-faq-item__top span{
+		font-size: 15px;
+	}
+	.b-detail__container-title{
+		font-size: 20px;
+		margin: 0 0 10px 0;
+	}
+	.b-detail__tags ul li a{
+		padding: 6px 3px;
+		font-size: 13px;
+	}
+	.b-detail__tags ul{
+		margin: 10px 0;
+	}
+	.b-detail__links {
+		margin: 30px 0 60px 0;
+	}
+	.b-institutional__item-small{
+		padding: 25px 0;
+		background: none;
+	}
+	.b-institutional__item-image{
+		margin: 0 0 15px 0;
+	}
+	.b-detail__container {
+		padding: 0 0 20px 0;
+		margin: 0 0 50px 0;
+	}
+	/* -------------- end details-page -------------- */
+
+
+	/* -------------- begin b-promo-cms -------------- */
+	.b-promo-cms__left{
+		margin: 0 0 25px 0;
+	}
+	.b-promo-cms__footer{
+		padding: 0 0 30px 0;
+	}
+	.b-promo-cms__bottom{
+		position: static;
+		display: block;
+	}
+	.b-promo-cms__bottom-left{
+		width: 100%;
+		margin: 0 0 25px 0;
+	}
+	.b-promo-cms__bottom-right span{
+		text-align: left;
+	}
+	/* -------------- end b-promo-cms -------------- */
+
+
+	/* -------------- begin b-team-top -------------- */
+	.b-team-top{
+		margin: 0 0 20px 0;
+	}
+	/* -------------- end b-team-top -------------- */
+
+	.b-platforms-row > div{
+		margin-bottom: 30px;
+	}
+	.b-platforms-row:last-child > div:last-child{
+		margin-bottom: 0px;
+	}
+	.b-historical-nav{
+		display: block;
+		padding: 17px 15px;
+	}
+	.b-historical-nav__date{
+		flex-wrap: wrap;
+	}
+	.b-historical-nav__date-item span{
+		margin: 0 8px 0 0;
+	}
+	.b-historical-nav__date-item{
+		margin: 10px;
+	}
+	.b-historical-nav__date-item:first-child{
+		margin-left: 0px;
+	}
+	.b-historical-nav__left{
+		margin: 0 0 10px 0;
+	}
+
+
+	.b-funds-table__row{
+		width: 100%;
+		order: 2;
+		margin: 10px 0 0 0;
+	}
+	.b-funds-block_two .b-funds-table__row span{
+		order: 1;
+		margin: 0 10px 0 0;
+	}
+	.b-line{
+		width: 100%;
+		order: 2;
+	}
+	.b-funds-block_two .b-funds-table table tbody tr td:first-child{
+		border: none;
+		padding-bottom: 0;
+	}
+	.b-funds-block_two .b-funds-table table tbody tr td:last-child{
+		padding: 3px 8px 4px 15px;
+	}
+	.b-funds-block_two .b-funds-table table tbody tr td:before{
+		display: none;
+	}
+	.b-funds-block_two .b-funds-table table tbody tr td{
+		width: 100%;
+		padding: 13px 8px 13px 15px;
+	}
+	.b-promo-footer .purple-btn {
+		margin: 0 10px 0 0;
+		text-align: left;
+	}
+	.b-platforms-row__text-number{
+		left: -14px;
+	}
+
+
+	/* -------------- begin b-search-result page -------------- */
+	.b-search-result{
+		padding: 85px 0 0 0;
+	}
+	.b-title__row{
+		display: block;
+	}
+	.b-title__row-left{
+		margin: 0 0 10px 0;
+	}
+	.b-search-result__nav ul{
+		flex-wrap: wrap;
+	}
+	.b-search-result__nav ul li{
+		margin: 0 15px 10px 0;
+	}
+	.b-found-col{
+		margin-bottom: 20px;
+	}
+	.b-found-col:last-child{
+		margin-bottom: 0px;
+	}
+	.b-materials-block_big .b-materials-block__top{
+		padding: 23px 15px 23px 15px;
+	}
+	.b-materials-block_big .b-materials-block__footer{
+		padding: 5px 15px 15px 15px;
+	}
+	.b-found-others ul li{
+		margin: 0 0 25px 0;
+	}
+	.b-found-others ul li:last-child{
+		margin-bottom: 25px;
+	}
+	/* -------------- end b-search-result page -------------- */
+
+
+	/* --------------------- begin b-documents page ---------------------  */
+	.b-promo__documents {
+		padding: 90px 0 50px 0 !important;
+	}
+	/* -------------- begin b-materials -------------- */
+	.b-materials__top{
+		flex-wrap: wrap;
+		padding: 15px 15px 5px 15px;
+	}
+	.b-materials__top-left {
+		margin-bottom: 10px;
+	}
+	.b-materials__top-left .b-select-container{
+		margin: 0 15px 0 0;
+	}
+	.b-materials__top-right{
+		text-align: center;
+		margin-bottom: 10px;
+	}
+	.b-materials__search {
+		margin-top: 1px;
+	}
+	.b-materials__aside-container{
+		padding: 0 15px;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+	}
+	.b-materials__container{
+		padding :25px 15px;
+	}
+	.b-materials__aside-title{
+		display: flex;
+		justify-content: flex-start;
+		align-items: center;
+		pointer-events: inherit;
+	}
+	.b-materials__aside-title:after{
+		font-family: 'icomoon' !important;
+		speak: never;
+		font-style: normal;
+		font-weight: normal;
+		font-variant: normal;
+		text-transform: none;
+		line-height: 1;
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+		content: "\e906";
+		font-size: 12px;
+		margin: 0 0 0 10px;
+		transition: 0.3s;
+	}
+	.b-materials__aside-title.active:after{
+		transform: rotate(180deg);
+		transition: 0.3s;
+	}
+	.b-materials__aside ul{
+		display: none;
+	}
+	.b-materials__aside ul.active{
+		display: block;
+	}
+	.b-materials-block__top{
+		margin: 0 0 15px 0;
+	}
+	/* -------------- end b-materials -------------- */
+	.b-section_padding-top .b-text{
+		display: block;
+	}
+	.b-text p{
+		word-break: break-word;
+	}
+	.b-section__top{
+		display: block;
+	}
+	.b-section__top .b-tags{
+		margin: 0 0 10px 0;
+	}
+	/* --------------------- end b-documents page ---------------------  */
+
+	/* --------------------- begin ark-funds page --------------------- */
+	.b-promo-funds {
+		padding: 95px 0 45px 0 !important;
+	}
+	.b-section-nav{
+		position: static;
+	}
+	.b-section-nav ul{
+		justify-content: center;
+	}
+	.b-section-nav ul li a{
+		padding: 10px 7px;
+		display: block;
+		font-size: 14px;
+		margin: 0 10px;
+	}
+	.b-fees__title{
+		padding: 20px 20px 5px 15px;
+	}
+	.b-fees__item-top b{
+		font-size: 13px;
+	}
+	.b-fees__item-top span{
+		font-size: 12px;
+	}
+	.b-fees__item ul li{
+		font-size: 10px;
+	}
+	.b-fees__item ul {
+		padding: 0 0 0 5px;
+	}
+	.b-fees__item{
+		padding: 15px 10px 15px 10px;
+	}
+	.b-table-container table tbody tr td{
+		text-align: center;
+	}
+	.b-date__container{
+		flex-wrap: wrap;
+		align-items: baseline;
+	}
+	.b-date__title {
+		margin-bottom: 10px;
+	}
+	.b-date__text{
+		margin: 0;
+	}
+	.b-date__select{
+		margin: 0 10px 10px 0;
+	}
+	.b-tabs-nav > ul > li:first-child{
+		margin-left: 0;
+	}
+	.b-table__row{
+		display: block;
+	}
+	.b-table__link{
+		margin: 13px 0 0 0;
+	}
+	.b-premium__right-top{
+		padding: 12px 15px;
+	}
+	.b-premium__right-title{
+		padding: 20px 15px 10px 15px;
+	}
+	.b-premium__right-item{
+		padding: 15px;
+	}
+	.b-premium__right-row span{
+		font-size: 12px;
+	}
+	.b-premium__right-item ul li{
+		font-size: 13px;
+        padding-left: 30px;
+	}
+
+	.b-overview .b-historical-right__top{
+		display: block;
+		padding: 0 10px 15px 10px;
+	}
+	.b-historical-right__top-left{
+		margin: 0 0 10px 0;
+	}
+	.b-overview .b-historical-right ul li{
+		padding: 20px 10px;
+		font-size: 12px;
+	}
+	.b-overview .b-historical-right ul li span{
+		font-size: 12px;
+		text-align: right;
+	}
+	/* --------------------- end ark-funds page --------------------- */
+
+	/* -------------- begin questionnaire page -------------- */
+	.b-questionnaire__top{
+		margin: 0 0 30px 0;
+	}
+	.b-questionnaire__top-title{
+		font-size: 20px;
+		margin: 0 13px 0 0;
+	}
+	.b-questionnaire__top-logo{
+		width: 70px;
+	}
+	.b-questionnaire__row{
+		margin-bottom: 30px;
+	}
+	.b-questionnaire__row .purple-btn{
+		width: 100%;
+		margin: 0 0 15px 0;
+	}
+	.b-questionnaire__content-col{
+		margin-bottom: 25px;
+	}
+	.b-questionnaire__content-col:last-child{
+		margin-bottom: 0px;
+	}
+	/* -------------- end questionnaire page -------------- */
+
+	/* --------------------- begin b-documents page ---------------------  */
+	.b-error{
+		padding: 80px 0 0 0;
+	}
+	.b-error__content b{
+		font-size: 130px;
+	}
+	.b-error__content span{
+		font-size: 16px;
+	}
+	.b-error__btn{
+		width: 100%;
+		max-width: 320px;
+	}
+	/* --------------------- end b-documents page ---------------------  */
+
+	/* --------------------- begin page subscribe --------------------- */
+	.b-section{
+		padding-top: 30px;
+	}
+	.b-subscribe__container{
+		padding: 30px 15px;
+	}	
+	.b-subscribe_2 .b-subscribe__container{
+		display: block;
+		padding: 30px 15px;
+	}
+	.b-subscribe_2 .b-subscribe__container-wrap{
+		width: 100%;
+	}
+	.b-subscribe_2{
+		padding-top: 100px;
+	}
+	.b-title-item_sm{
+	    font-size: 20px;
+	}
+	.b-subscribe__container-row{
+		display: block;
+	}
+	.b-subscribe__container-row .b-radio{
+		margin: 0 0 15px 0;
+	}
+	.b-subscribe__container-row .b-radio:last-child{
+		margin-bottom: 0px;
+	}
+	.b-checkbox input[type="checkbox"] + label i{
+		line-height: 1.4;
+	}
+	.b-subscribe__container-item{
+		margin: 0 0 25px 0;
+	}
+	.b-subscribe__container-list ul li a{
+		font-size: 17px;
+		padding: 20px 0;
+	}
+	.b-subscribe__container-right p{
+		font-size: 14px;
+	}
+	/* --------------------- end page subscribe --------------------- */
+
+	/* --------------------- begin page b-etf-section --------------------- */
+	.b-tabs-nav_flex{
+		display: block;
+	}
+	.b-tabs-nav__date{
+		padding: 0;
+		margin: 15px 0 0 4px;
+	}
+	.b-etf-section .b-funds-table table td:first-child, table th:first-child{
+		width: 100%;
+	}
+	.b-funds-item{
+		display: flex;
+	}
+	.b-funds-table table tbody{
+		border: 1px solid rgba(208, 205, 226, 0.2);
+	}
+	.b-funds-table table td:nth-child(2n + 1){
+		border-right: none;
+	}
+	.b-funds-table table td:last-child{
+		border-bottom: 0;
+	}
+	.b-etf-section__perfomance .b-funds-table table td:last-child{
+		width: 50%;
+	}
+	.b-etf-section__perfomance .b-funds-table table tbody tr td .b-funds-table__date{
+		order: 3;
+	}
+	.b-etf-section__pricing .b-funds-table table tbody tr td{
+		width: 50%;
+	}
+	.b-etf-section .b-funds-block{
+		margin: 0px;
+	}
+	.b-icon-pdf{
+		order: 2;
+	}
+	/*.b-funds:not(.our-etf-overview) #tt-overview .b-funds-table tbody td:nth-last-child(2) {*/
+		/*border-bottom: 0;*/
+	/*}*/
+	.b-funds:not(.our-etf-overview) #tt-performance {
+
+	}
+	#tt-net-assets .b-funds-table tbody td:not(:first-child){
+		border-bottom: 0;
+	}
+
+	.b-premium__nav table {
+		display: flex;
+	}
+
+	.b-premium__nav thead,
+	.b-premium__nav tbody {
+		width: 50%;
+	}
+
+	.b-premium__nav thead tr,
+	.b-premium__nav tbody tr {
+		display: flex;
+		flex-direction: column;
+		min-height: 100%;
+	}
+
+	.b-premium .b-premium__nav table th,
+	.b-premium .b-premium__nav table td {
+		padding: 15px;
+	}
+
+    .b-premium .b-premium__nav table td {
+        padding-left: 35px;
+    }
+
+	.b-premium .b-premium__nav table td,
+	.b-premium .b-premium__nav table th {
+		min-width: 100%;
+        width: 100%;
+		max-width: 100%;
+		text-align: left;
+	}
+
+	.b-premium__nav thead tr th span,
+	.b-premium__nav tbody tr td span {
+		text-align: left;
+		width: 100%;
+	}
+	/* --------------------- end page b-etf-section --------------------- */
+
+	/* --------------------- begin page b-questionnaire_step --------------------- */
+	.b-questionnaire_step{
+		padding-bottom: 60px;
+	}
+	.b-investment__item_btn{
+		margin: 0 0 50px 0;
+	}
+	.b-questionnaire_step .b-investment__content{
+		overflow: auto;
+		display: flex;
+	}
+	/* --------------------- end page b-questionnaire_step --------------------- */
+
+	.b-modal{
+		padding: 25px 10px;
+	}
+	.b-modal-logo{
+		margin: 10px 0 0 0;
+	}
+	.b-modal-radio input[type="radio"] + label i{
+		font-size: 16px;
+	}
+	.b-modal-radio input[type="radio"] + label span{
+		width: 28px;
+		height: 28px;
+	}
+	.b-modal-radio input[type="radio"]:checked + label span{
+		width: 28px;
+		height: 28px;
+	}
+	.b-modal-radio input[type="radio"]:checked + label span:before{
+		width: 16px;
+		height: 16px;
+	}
+	.b-modal-radio{
+		margin: 0 0 20px 0;
+	}
+	.b-modal-container__row-top .b-title{
+		margin: 0 30px 25px 0;
+	}
+	.b-modal-container__row-top .b-title-item{
+		font-size: 17px;
+	}
+	.b-modal__questionnaire .modal-dialog{
+		max-width: calc(100% - 30px);
+		margin: 60px auto 0;
+	}
+	.b-modal__form .modal-dialog{
+		max-width: calc(100% - 30px);
+		margin: 60px auto 0;
+		padding: 30px 10px;
+	}
+	.b-modal__form-title p{
+		font-size: 14px;
+		max-width: 100%;
+	}
+	.b-modal__form-title{
+		margin: 0 0 25px 0;
+	}
+	.b-modal__form-block{
+		margin: 0 0 30px 0;
+	}
+	.b-modal__form-col{
+		width: 100%;
+	}
+	.body-overflow{
+		overflow: hidden;
+	}
+	.header-nav{
+		display: block;
+		position: absolute;
+		top: 55px;
+		left: 0;
+		width: 100%;
+		height: 100vh;
+		background: #050512;
+		overflow: auto;
+		padding: 0 0 40px 0;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		border-top: 2px solid #2D215C;
+		opacity: 0;
+		visibility: hidden;
+		transition: 0.3s;
+		z-index: -1;
+	}
+	.header-nav.active{
+		z-index: 200;
+		opacity: 1;
+		visibility: visible;
+		transition: 0.3s;
+	}
+	.header-nav-btn{
+		font-weight: 500;
+		font-size: 16px;
+		line-height: 1;
+		text-align: left;
+		color: #FFFFFF;
+		padding: 30px 10px 30px 23px;
+		border-bottom: 1px solid rgba(208, 205, 226, 0.2);
+	}
+	.header-nav-btn:after{
+		position: static;
+		margin: 0 0 0 24px;
+		color: #FFFFFF;
+		font-size: 12px;
+		opacity: 1;
+		content: "\e907";
+	}
+	.header-nav-item:hover .header-nav-btn:after{
+		color: #ffffff;
+	}
+	.header-nav-menu{
+		top: 0;
+		padding: 0 0 100px 0;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		height: 100vh;
+		overflow: auto;
+	}
+	#menu-resources > .menu-item{
+		width: 100%;
+		padding: 0 23px;
+	}
+	#menu-our-etfs > .menu-item{
+		width: 100%;
+		padding: 0 23px;
+	}
+	.header-nav-back{
+		display: block;
+		width: 100%;
+	}
+	.header-nav-menu > li.header-nav-back{
+		margin: 0 0 20px 0;
+	}
+	.header-nav-menu > li.header-nav-back .header-nav-btn.back{
+		background: linear-gradient(269deg, #3C2C7E -1.3%, #2C1F5F 36.43%, #271B56 56.3%, #201649 67.08%, #050512 101.56%);
+		border: none;
+		flex-direction: row-reverse;
+		display: flex;
+		justify-content: flex-end;
+		align-items: center;
+		color: #8264FF;
+	}
+	.header-nav-menu > li.header-nav-back .header-nav-btn.back:after{
+		margin: 0 20px 0 0;
+		transform: rotate(180deg);
+		color: #8264FF;
+	}
+	.sub-menu > li{
+		margin: 34px 0;
+	}
+	.sub-menu > li > a{
+		padding: 0;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+	}
+	.header-nav-btn:before{
+		display: none;
+	}
+	.header-nav-menu > li > a{
+		font-size: 20px;
+	}
+	#how-invest{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		margin: 25px 0 0 0;
+	}
+	#how-invest .header-nav-btn{
+		width: 270px;
+		height: 64px;
+		border: none;
+		background: linear-gradient(280deg, rgba(36,5,179,1) 0%, rgba(237,0,233,1) 100%);
+		font-weight: 700;
+		font-size: 16px;
+		line-height: 1;
+		color: #FFFFFF;
+		text-shadow: 0px 4px 9px rgba(10, 10, 35, 0.32);
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.header-nav-item:nth-last-child(-n+2) .header-nav-btn{
+		border: none;
+	}
+	.b-modal-item{
+		width: auto;
+		max-width: 400px;
+		right: 10px;
+		left: 10px;
+		bottom: 10px;
+	}
+	.b-modal-item__top-wrap ul li b{
+		font-size: 17px;
+	}
+	.b-modal-item__top-wrap ul li{
+		width: 58px;
+		height: 58px;
+	}
+	.b-modal-item__close{
+		right: -6px;
+	}
+
+	#menu-our-etfs {
+		display: block;
+        height: auto;
+	}
+    #menu-our-etfs ul {
+        position: relative;
+		display: flex;
+		flex-direction: column;
+	}
+
+	#menu-our-etfs > .menu-item{
+        position: static;
+		min-width: 100%;
+		width: 100%;
+		max-width: 100%;
+	}
+
+	#menu-our-etfs > .menu-item > .sub-menu {
+		margin: 0;
+	}
+
+	#menu-our-etfs > .menu-item:not(.hide-title) > .sub-menu > .menu-item >
+	.menu-image-title-after .menu-image-title{
+		font-size: 10px;
+		margin-bottom: 0;
+	}
+
+	#menu-our-etfs > .menu-item > .sub-menu > .menu-item > .menu-image-title-after .menu-item-description:last-child {
+		font-size: 17px;
+	}
+
+	#menu-our-etfs > .menu-item > .sub-menu > .menu-item > .menu-image-title-after .menu-image-hover-wrapper {
+		width: 33px;
+		height: 33px;
+	}
+
+	#menu-our-etfs .menu-etfs-link {
+		display: none;
+	}
+
+	body.scrolled .sticky-top .nav-link {
+		padding: 7px 0;
+	}
+
+	.b-section-nav.sticky-top .nav {
+		padding: 6px 0;
+	}
+
+	.b-table__text p,
+	.b-footer__bottom .col-xl p,
+	.b-footer__bottom .col-xl b,
+	.b-footer__bottom .col-xl b,
+	.b-footer__bottom .col-xl a,
+	.b-footer__bottom .col-xl span,
+	.b-investment-process__container-row + p,
+	.b-modal-container__row_bottom .b-title p,
+	.b-funds .b-text p,
+	.b-investment .b-text p,
+	.b-premium .b-text p,
+	.b-questionnaire .b-text p,
+	.b-invest-lists__text p,
+	.b-invest-lists__text p b,
+	.b-exposure-breakdowns .b-text p,
+	.b-section-brokers .b-invest-lists__text p,
+	.b-subscribe .b-subscribe__disclosure p,
+	.b-main-about .b-main-about__disclosure p,
+	.b-materials + .b-section_padding-top .b-text p,
+	.b-footer__bottom p {
+		font-size: 11px;
+	}
+}
+@media (max-width: 575px) {
+	.b-materials-block{
+		height: auto;
+	}
+	.b-found-item{
+		min-height: inherit;
+		padding: 15px 10px;
+	}
+	.b-modal__subscribe-popup-inner {
+		align-items: flex-start;
+	}
+	.b-modal__subscribe-popup-form {
+		padding: 20px 15px;
+		margin: 0;
+	}
+    .highcharts-range-selector:nth-child(2){
+        margin-right: 15px !important;
+        margin-left: 60px !important;
+    }
+    .highcharts-range-selector:nth-child(3){
+        margin-right: 0 !important;
+    }
+}
+@media (max-width: 400px) {
+	/* -------------- begin b-invest-lists -------------- */
+	.b-invest-lists ul li:before,
+	.b-invest-lists ul li a:before{
+		width: 20px;
+		height: 20px;
+		background-size: 10px;
+		margin: 0 10px 0 0;
+	}
+	.b-invest-lists ul li{
+		font-size: 13px;
+	}
+	.b-invest-lists ul li a{
+		padding-left: 30px;
+	}
+	.tooltip:after, .tooltip:before{
+		display: none;
+	}
+
+	/* -------------- end b-invest-lists -------------- */
+}
+@media (max-width: 360px) {
+	.b-promo-funds__item,
+	.b-promo-funds__item.launch {
+		padding-left: 15px;
+	}
+}
